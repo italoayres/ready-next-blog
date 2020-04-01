@@ -1,7 +1,7 @@
 {
-  "name": "next-and-cypress-example",
+  "name": "ready-next-blog",
   "version": "1.0.0",
-  "description": "Next.js example instrumented for code coverage from Cypress tests",
+  "description": "A production-ready blog powered by Next.js and Netlify-CMS",
   "main": "index.js",
   "private": true,
   "scripts": {
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bahmutov/next-and-cypress-example.git"
+    "url": "git+https://github.com/italo/ready-next-blog.git"
   },
   "keywords": [
     "next.js",
@@ -44,10 +44,10 @@
     "istanbul",
     "code-coverage"
   ],
-  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
+  "author": "Italo Ayres <italoayres@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bahmutov/next-and-cypress-example/issues"
+    "url": "https://github.com/italoayres/ready-next-blog/issues"
   },
-  "homepage": "https://github.com/bahmutov/next-and-cypress-example#readme"
+  "homepage": "https://github.com/bahmutov/ready-next-blog#readme"
 }
