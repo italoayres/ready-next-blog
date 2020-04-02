@@ -2,6 +2,7 @@ backend:
   name: github
   repo: italoayres/ready-next-blog
   branch: master
+  site_domain: https://ready-next-blog.italoayres.now.sh
 media_folder: public/img
 slug:
   encoding: 'ascii'
