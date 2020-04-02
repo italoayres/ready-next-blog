@@ -2,7 +2,7 @@ backend:
   name: github
   repo: italoayres/ready-next-blog
   branch: master
-  site_domain: https://ready-next-blog.italoayres.now.sh
+  site_domain: boring-cori-87ea45.netlify.com
 media_folder: public/img
 slug:
   encoding: 'ascii'
